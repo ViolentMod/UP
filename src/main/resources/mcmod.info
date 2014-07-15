@@ -1,0 +1,16 @@
+[
+{
+  "modid": "UP",
+  "name": "Ultimate Power",
+  "description": "A Minecraft power source compatible with RF, EU and MJ!",
+  "version": "1.7.10",
+  "mcversion": "1.7.10",
+  "url": "https://github.com/ViolentMod/UP/",
+  "updateUrl": "",
+  "authorList": ["ViolentNinjaD"],
+  "credits": "Peoples code on GitHub for helping me out :)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
